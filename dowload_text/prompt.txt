@@ -1,0 +1,3 @@
+I have a raw text from YouTube subtitles.
+Please add proper punctuation, sentence boundaries, and paragraph breaks.
+Then translate the improved text into French.
