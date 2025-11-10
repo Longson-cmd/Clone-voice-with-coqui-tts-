@@ -13,14 +13,13 @@ It also includes utilities for **text processing**, **audio editing**, and **sub
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/Longson-cmd/Clone-voice-with-coqui-tts-.git
 cd "Clone-voice-with-coqui-tts-"
 
 
-
 ### 2️⃣ Set Up the Environment
-```bash
+
 pip install -r download_text/requirements.txt
 
 
@@ -41,5 +40,6 @@ Load your voice sample
 Clone it using Coqui TTS
 
 Generate speech in your target language (e.g., French)
+
 
 
