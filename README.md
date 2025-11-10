@@ -19,13 +19,14 @@ cd "Clone-voice-with-coqui-tts-"
 
 
 
-###2️⃣ Set Up the Environment
+### 2️⃣ Set Up the Environment
+```bash
 pip install -r download_text/requirements.txt
 
 
-###3️⃣ Run on Google Colab
+### 3️⃣ Run on Google Colab
 
-####🧰 Audio Tools
+#### 🧰 Audio Tools
 🎧 create_voice_sample/
 
 runps1.ps1: Split long recordings into smaller chunks.
@@ -40,4 +41,5 @@ Load your voice sample
 Clone it using Coqui TTS
 
 Generate speech in your target language (e.g., French)
+
 
